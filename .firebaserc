@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "deploy": "react-clicky-game-x",
+    "default": "react-clicky-game-x"
+  }
+}
